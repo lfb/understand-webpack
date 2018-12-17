@@ -1,7 +1,5 @@
 #### Understand Webpack
-
-<img src="https://img.shields.io/badge/build-passing-brightgreen.svg" alt="Build Status">
-<img src="https://img.shields.io/badge/license-MIT-green.svg" alt="Coverage Status">
+<img src="https://img.shields.io/badge/build-passing-brightgreen.svg" alt="Build Status"> <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="Coverage Status">
 
 #### 为什么前端需要构建？
 - 开发复杂化
