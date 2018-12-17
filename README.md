@@ -1,5 +1,6 @@
 #### Understand Webpack
-<img src="https://img.shields.io/badge/build-passing-brightgreen.svg" alt="Build Status"> <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="Coverage Status">
+<a href="https://github.com/liangfengbo/understand-webpack/commits/master"><img src="https://img.shields.io/badge/build-passing-brightgreen.svg" alt="Build Status"></a>
+<a href="https://github.com/liangfengbo/understand-webpack/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="Coverage Status"></a>
 
 #### 为什么前端需要构建？
 - 开发复杂化
@@ -12,7 +13,7 @@
 - 代码分割：code-splitting
 - 天生的模块化
 
-#### node、npm、webpack版本
+#### 项目的node、npm、webpack版本
 ```
 ➜  understand-webpack git:(master) node -v
 v8.9.3
