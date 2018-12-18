@@ -25,3 +25,4 @@ v8.9.3
 
 #### Issues
 - [学习webpack4的mode](https://github.com/liangfengbo/understand-webpack/issues/1)
+- [webpack编译ES6](https://github.com/liangfengbo/understand-webpack/issues/2)
