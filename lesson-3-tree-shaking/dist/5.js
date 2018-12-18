@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{5:function(s,i,n){"use strict";n.r(i),i.default="this is B"}}]);
