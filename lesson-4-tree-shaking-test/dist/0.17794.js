@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{3:function(n,e,t){"use strict";function Person(n,e){this.name=n,this.age=e}t.d(e,"a",function(){return Person}),Person.prototype.getName=function(){return this.name}}}]);

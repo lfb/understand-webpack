@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{2:function(e,n,o){"use strict";o.r(n);var s=new(o(3).a)("林和",10);console.log(s.getName()),n.default="this is A"}}]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],[,function(e,n,o){"use strict";o.r(n);var s=new(o(3).a)("波波",12);console.log(s.getName()),n.default="this is B"}]]);
